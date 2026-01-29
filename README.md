@@ -1,5 +1,4 @@
 # Stock Market
-Repositório do meu jogo de mercado de trocas. Inclui as versões para Windows e para Android
 
 <p>Este projeto consiste no desenvolvimento de um jogo sobre <b>mercados de stock</b>, onde o
 objetivo principal é <b>acumular dinheiro</b> e <b>sobreviver o máximo de dias
